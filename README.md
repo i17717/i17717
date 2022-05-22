@@ -14,7 +14,7 @@
 
 💬 I'm so passionate about creating stuff and anything that's related to innovation.
 
-💲💲 I’m currently **working** on `Something Intresting`.
+💲💲 I’m currently **working** on `Something Interesting`.
 
 🤝 I’m looking to collaborate on `Web & Mobile Apps`
 
@@ -43,15 +43,15 @@
 
 ## ❤️ Connect With Me
 
-[<img align="left" alt="facebook" width="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png"  />](https://facebook.com/lillime0)
+[<img target="_blank" align="left" alt="facebook" width="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png"  />](https://facebook.com/lillime0)
 
-[<img align="left" alt="twitter" width="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />](https://twitter.com/lillime0)
+[<img target="_blank" align="left" alt="twitter" width="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />](https://twitter.com/lillime0)
 
-[<img align="left" alt="linkedin" width="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"  />](https://linkedin.com/in/lillime0)
+[<img target="_blank" align="left" alt="linkedin" width="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"  />](https://linkedin.com/in/lillime0)
 
-[<img align="left" alt="behance" width="22" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-12-256.png" />](https://behance.net/lillime0)
+[<img target="_blank" align="left" alt="behance" width="22" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-12-256.png" />](https://behance.net/lillime0)
 
-[<img align="left" alt="website" width="22" src="https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Website-Outline-512.png" />](https://lillime0.github.io)
+[<img target="_blank" align="left" alt="website" width="22" src="https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Website-Outline-512.png" />](https://lillime0.github.io)
 
 <br/>
 

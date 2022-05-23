@@ -53,7 +53,7 @@
 
 [<img align="left" alt="linkedin" width="22" height="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"  />](https://linkedin.com/in/lillime0)
 
-[<img align="left" alt="behance" width="22" height="22" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-12-256.png" />](https://behance.net/lillime0)
+[<img align="left" alt="behance" width="22" height="22" src="https://symbols.getvecta.com/stencil_65/0_behance.5770f79b60.svg" />](https://behance.net/lillime0)
 
 [<img align="left" alt="website" width="22" height="22" src="https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Website-Outline-512.png" />](https://lillime0.github.io)
 

@@ -33,7 +33,7 @@
 <img align="left" src="https://symbols.getvecta.com/stencil_79/87_expressjs.98a8557541.svg" alt="express" width="35" height="35" />
 <img align="left" src="https://github.com/mongodb/mongo/raw/master/docs/leaf.svg" alt="mongodb" width="35" height="35" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="35" height="35" />
-<img align="left" src="https://avatars.githubusercontent.com/u/7892489?s=200&v=4" alt="netlify" width="35" height="35" />
+<img align="left" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="35" height="35" />
 <!-- <img align="left" src="https://symbols.getvecta.com/stencil_80/74_flutter-icon.9831b0dbe0.svg" alt="flutter" width="35" height="35" /> -->
 <img align="left" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.svg" alt="jest" width="35" height="35" />
 <img align="left" src="https://symbols.getvecta.com/stencil_89/73_npm.639266ac20.svg" alt="npm" width="35" height="35" />

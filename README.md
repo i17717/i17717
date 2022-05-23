@@ -22,8 +22,6 @@
 
 ## 🛠️ Languages and Tools I use
 
-<div>
-
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="35" height="35" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="35" height="35" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="35" height="35" />
@@ -46,9 +44,7 @@
 <!-- <img align="left" src="https://symbols.getvecta.com/stencil_82/66_graphql-icon.cdedad214a.svg" alt="graphql" width="35" height="35" /> -->
 <!-- <img align="left" src="https://symbols.getvecta.com/stencil_100/35_vim.93e7884741.svg" alt="vim" width="35" height="35" /> -->
   
-</div>
-
-<br/>
+<br clear="left" />
 
 ## ❤️ Connect With Me
 
@@ -62,7 +58,7 @@
 
 [<img alt="website" width="22" height="22" src="https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Website-Outline-512.png" />](https://lillime0.github.io)
 
-<br/>
+<br clear="left" />
 
 ## ⚡ Github Stats
 

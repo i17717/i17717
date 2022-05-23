@@ -14,7 +14,7 @@
 
 💬 I'm so passionate about creating stuff and anything that's related to innovation.
 
-💲💲 I’m currently **working** on `Something Intresting`.
+💲 I’m currently **working** on `Something Intresting`.
 
 <!-- 🤝 I’m looking to collaborate on `Web & Mobile Apps` -->
 

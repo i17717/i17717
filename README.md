@@ -1,4 +1,4 @@
-<h1>Hi, I'm <span style="color: #ff1493">Lilli</span> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt=""> </h1>
+<h1>Hi, I'm Lilli <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt=""> </h1>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=lillime0&label=Profile%20views&color=ff1493&style=flat" alt="prfile views" /></p>
 
@@ -16,7 +16,7 @@
 
 💲💲 I’m currently **working** on `Something Intresting`.
 
-🤝 I’m looking to collaborate on `Web & Mobile Apps`
+<!-- 🤝 I’m looking to collaborate on `Web & Mobile Apps` -->
 
 <br/>
 
@@ -34,10 +34,14 @@
 <img align="left" src="https://github.com/mongodb/mongo/raw/master/docs/leaf.svg" alt="mongodb" width="35" height="35" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="35" height="35" />
 <img align="left" src="https://avatars.githubusercontent.com/u/7892489?s=200&v=4" alt="netlify" width="35" height="35" />
-<!-- <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" width="35" height="35" /> -->
+<!-- <img align="left" src="https://symbols.getvecta.com/stencil_80/74_flutter-icon.9831b0dbe0.svg" alt="flutter" width="35" height="35" /> -->
 <img align="left" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.svg" alt="jest" width="35" height="35" />
 <img align="left" src="https://symbols.getvecta.com/stencil_81/42_git-icon.5af2ad4103.svg" alt="git" width="35" height="35" />
+<img align="left" src="https://postcss.org/assets/postcss.83d93145.svg" alt="postCSS" width="35" height="35" />
+<img align="left" src="https://symbols.getvecta.com/stencil_101/30_webpack-icon.3aae0e41ed.svg" alt="webpack" width="35" height="35" />
+<img align="left" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="vite" width="35" height="35" />
 <!-- <img align="left" src="https://symbols.getvecta.com/stencil_82/66_graphql-icon.cdedad214a.svg" alt="graphql" width="35" height="35" /> -->
+<!-- <img align="left" src="https://symbols.getvecta.com/stencil_100/35_vim.93e7884741.svg" alt="vim" width="35" height="35" /> -->
 
 <br/>
 

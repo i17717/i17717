@@ -33,6 +33,7 @@
 <img align="left" src="https://symbols.getvecta.com/stencil_25/61_nodejs.124d3fe0e1.svg" alt="nodejs" width="35" height="35" />
 <img align="left" src="https://symbols.getvecta.com/stencil_79/87_expressjs.98a8557541.svg" alt="express" width="35" height="35" />
 <img align="left" src="https://symbols.getvecta.com/stencil_261/25_mongodb.cef7d00b8a.svg" alt="mongodb" width="35" height="35" />
+<img align="left" src="https://symbols.getvecta.com/stencil_83/38_heroku-icon.bddf300adb.svg" alt="heroku" width="35" height="35" />
 <img align="left" src="https://symbols.getvecta.com/stencil_3/3_firebase.39b6ba3587.svg" alt="firebase" width="35" height="35" />
 <img align="left" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="35" height="35" />
 <!-- <img align="left" src="https://symbols.getvecta.com/stencil_80/74_flutter-icon.9831b0dbe0.svg" alt="flutter" width="35" height="35" /> -->

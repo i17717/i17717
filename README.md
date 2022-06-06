@@ -25,7 +25,6 @@
 <img align="left" src="https://symbols.getvecta.com/stencil_83/68_html5-icon.09e3da538e.svg" alt="html" width="35" height="35" />
 <img align="left" src="https://symbols.getvecta.com/stencil_25/14_css3.d930bfb832.svg" alt="css" width="35" height="35" />
 <img align="left" src="https://symbols.getvecta.com/stencil_95/18_sass.5a8c1431d6.svg" alt="sass" width="35" height="35" />
-<img align="left" src="https://symbols.getvecta.com/stencil_97/3_tailwind-css-icon.5009c3dbea.svg" alt="tailwind" width="35" height="35" />
 <img align="left" src="https://symbols.getvecta.com/stencil_25/39_javascript.0ca26ec4ab.svg" alt="javascript" width="35" height="35" />
 <!-- <img align="left" src="https://symbols.getvecta.com/stencil_25/85_typescript.cb2d7326fa.svg" alt="typescript" width="35" height="35" /> -->
 <img align="left" src="https://symbols.getvecta.com/stencil_94/22_react-icon.e55e75bd2e.svg" alt="react" width="35" height="35" />
@@ -36,6 +35,7 @@
 <img align="left" src="https://symbols.getvecta.com/stencil_83/38_heroku-icon.bddf300adb.svg" alt="heroku" width="35" height="35" />
 <img align="left" src="https://symbols.getvecta.com/stencil_3/3_firebase.39b6ba3587.svg" alt="firebase" width="35" height="35" />
 <img align="left" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="35" height="35" />
+<!-- <img align="left" src="https://symbols.getvecta.com/stencil_78/11_dart-icon.2761935618.svg" alt="dart" width="35" height="35" />  -->
 <!-- <img align="left" src="https://symbols.getvecta.com/stencil_80/74_flutter-icon.9831b0dbe0.svg" alt="flutter" width="35" height="35" /> -->
 <img align="left" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.svg" alt="jest" width="35" height="35" />
 <img align="left" src="https://symbols.getvecta.com/stencil_89/73_npm.639266ac20.svg" alt="npm" width="35" height="35" />
@@ -46,8 +46,9 @@
 
 <!-- <img align="left" src="https://symbols.getvecta.com/stencil_82/66_graphql-icon.cdedad214a.svg" alt="graphql" width="35" height="35" /> -->
 <!-- <img align="left" src="https://symbols.getvecta.com/stencil_100/35_vim.93e7884741.svg" alt="vim" width="35" height="35" /> -->
-<img align="left" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vsc" width="35" height="35" />
 <img align="left" src="https://symbols.getvecta.com/stencil_75/2_babeljs.0c9d64b44e.svg" alt="babel" width="35" height="35" />
+<img align="left" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vsc" width="35" height="35" />
+
   
 <br clear="left" />
 

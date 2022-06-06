@@ -10,13 +10,7 @@
 
 <br/>
 
-📌 I'm an `Engineer`, `Developer`, `Designer`, and `Stories Writer` in my free time.
-
-💬 I'm so passionate about creating stuff and anything that's related to innovation.
-
-💲 I’m currently **working** on `Something Intresting`.
-
-<!-- 🤝 I’m looking to collaborate on `Web & Mobile Apps` -->
+📌 I'm an `Engineer`, `Developer`, `Designer`, and `Stories Writer` in my leisure time. I'm so passionate about creating stuff and anything that's related to innovation.
 
 <br/>
 

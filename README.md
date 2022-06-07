@@ -12,6 +12,8 @@
 
 📌 I'm an `Engineer`, `Developer`, `Designer`, and `Stories Writer` in my leisure time. I'm so passionate about creating stuff and anything that's related to innovation.
 
+💪 I'm currently working on improving my skills on web & mobile apps.
+
 <br/>
 
 ## 🛠️ Languages and Tools I use

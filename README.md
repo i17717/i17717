@@ -41,6 +41,7 @@
 <img align="left" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="vite" width="35" height="35" />
 
 <!-- <img align="left" src="https://symbols.getvecta.com/stencil_82/66_graphql-icon.cdedad214a.svg" alt="graphql" width="35" height="35" /> -->
+<!-- <img align="left" src="https://symbols.getvecta.com/stencil_74/52_apollo-icon.f089d38552.svg" alt="apollo" width="35" height="35" /> -->
 <!-- <img align="left" src="https://symbols.getvecta.com/stencil_100/35_vim.93e7884741.svg" alt="vim" width="35" height="35" /> -->
 <img align="left" src="https://symbols.getvecta.com/stencil_75/2_babeljs.0c9d64b44e.svg" alt="babel" width="35" height="35" />
 <img align="left" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vsc" width="35" height="35" />

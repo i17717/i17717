@@ -22,7 +22,7 @@
 <img align="left" src="https://symbols.getvecta.com/stencil_25/14_css3.d930bfb832.svg" alt="css" width="35" height="35" />
 <img align="left" src="https://symbols.getvecta.com/stencil_95/18_sass.5a8c1431d6.svg" alt="sass" width="35" height="35" />
 <img align="left" src="https://symbols.getvecta.com/stencil_25/39_javascript.0ca26ec4ab.svg" alt="javascript" width="35" height="35" />
-<!-- <img align="left" src="https://symbols.getvecta.com/stencil_25/85_typescript.cb2d7326fa.svg" alt="typescript" width="35" height="35" /> -->
+<img align="left" src="https://symbols.getvecta.com/stencil_25/85_typescript.cb2d7326fa.svg" alt="typescript" width="35" height="35" />
 <img align="left" src="https://symbols.getvecta.com/stencil_94/22_react-icon.e55e75bd2e.svg" alt="react" width="35" height="35" />
 <!-- <img align="left" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" alt="nextjs" width="35" height="35" /> -->
 <img align="left" src="https://symbols.getvecta.com/stencil_25/61_nodejs.124d3fe0e1.svg" alt="nodejs" width="35" height="35" />

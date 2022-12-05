@@ -37,7 +37,6 @@
 <img align="left" src="https://symbols.getvecta.com/stencil_89/73_npm.639266ac20.svg" alt="npm" width="35" height="35" />
 <img align="left" src="https://symbols.getvecta.com/stencil_81/42_git-icon.5af2ad4103.svg" alt="git" width="35" height="35" />
 <img align="left" src="https://postcss.org/assets/postcss.83d93145.svg" alt="postCSS" width="35" height="35" />
-<img align="left" src="https://symbols.getvecta.com/stencil_101/30_webpack-icon.3aae0e41ed.svg" alt="webpack" width="35" height="35" />
 <img align="left" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="vite" width="35" height="35" />
 
 <!-- <img align="left" src="https://symbols.getvecta.com/stencil_82/66_graphql-icon.cdedad214a.svg" alt="graphql" width="35" height="35" /> -->

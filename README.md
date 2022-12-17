@@ -28,22 +28,22 @@
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/node-js.svg" alt="nodejs" width="35" height="35" />
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/express2.svg" alt="express" width="35" height="35" />
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/mongodb.svg" alt="mongodb" width="35" height="35" />
-<img align="left" src="" alt="heroku" width="35" height="35" />
+<img align="left" src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="heroku" width="35" height="35" />
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/firebase.svg" alt="firebase" width="35" height="35" />
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/netlify.svg" alt="netlify" width="35" height="35" />
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/graphql.svg" alt="graphql" width="35" height="35" />
-<img align="left" src="" alt="apollo" width="35" height="35" />
+<img align="left" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg" alt="apollo" width="35" height="35" />
 <!-- <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/dart.svg" alt="dart" width="35" height="35" />  -->
 <!-- <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/flutter.svg" alt="flutter" width="35" height="35" /> -->
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/jest.svg" alt="jest" width="35" height="35" />
-<img align="left" src="" alt="npm" width="35" height="35" />
-<img align="left" src="https://git-scm.com/images/logo@2x.png" alt="git" width="35" height="35" />
+<img align="left" src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="npm" width="35" height="35" />
+<img align="left" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="35" height="35" />
 <img align="left" src="https://postcss.org/assets/postcss.83d93145.svg" alt="postCSS" width="35" height="35" />
 <img align="left" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="vite" width="35" height="35" />
 
 
-<img align="left" src="" alt="vim" width="35" height="35" />
-<img align="left" src="" alt="babel" width="35" height="35" />
+<img align="left" src="https://cdn.worldvectorlogo.com/logos/vim.svg" alt="vim" width="35" height="35" />
+<img align="left" src="https://cdn.worldvectorlogo.com/logos/babel-10.svg" alt="babel" width="35" height="35" />
 <img align="left" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vsc" width="35" height="35" />
 
   

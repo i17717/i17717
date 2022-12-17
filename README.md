@@ -18,7 +18,7 @@
 
 ## 🛠️ Languages and Tools I use
 
-<img align="left" src="https://symbols.getvecta.com/stencil_83/68_html5-icon.09e3da538e.svg" alt="html" width="35" height="35" />
+<img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/html.svg" alt="html" width="35" height="35" />
 <img align="left" src="https://symbols.getvecta.com/stencil_25/14_css3.d930bfb832.svg" alt="css" width="35" height="35" />
 <img align="left" src="https://symbols.getvecta.com/stencil_95/18_sass.5a8c1431d6.svg" alt="sass" width="35" height="35" />
 <img align="left" src="https://symbols.getvecta.com/stencil_25/39_javascript.0ca26ec4ab.svg" alt="javascript" width="35" height="35" />

@@ -33,7 +33,7 @@
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/firebase.svg" alt="firebase" width="35" height="35" />
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/netlify.svg" alt="netlify" width="35" height="35" />
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/graphql.svg" alt="graphql" width="35" height="35" />
-<img align="left" src="https://www.apollographql.com/" alt="apollo" width="35" height="35" />
+<img align="left" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg" alt="apollo" width="35" height="35" />
 <!-- <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/dart.svg" alt="dart" width="35" height="35" />  -->
 <!-- <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/flutter.svg" alt="flutter" width="35" height="35" /> -->
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/jest.svg" alt="jest" width="35" height="35" />

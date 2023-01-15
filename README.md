@@ -24,7 +24,7 @@
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/javascript.svg" alt="javascript" width="35" height="35" />
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/typescript.svg" alt="typescript" width="35" height="35" />
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/react.svg" alt="react" width="35" height="35" />
-<img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/nextjs.svg" alt="nextjs" width="35" height="35" />
+<!-- <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/nextjs.svg" alt="nextjs" width="35" height="35" /> -->
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/node-js.svg" alt="nodejs" width="35" height="35" />
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/express2.svg" alt="express" width="35" height="35" />
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/mongodb.svg" alt="mongodb" width="35" height="35" />
@@ -33,8 +33,8 @@
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/netlify.svg" alt="netlify" width="35" height="35" />
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/graphql.svg" alt="graphql" width="35" height="35" />
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg" alt="apollo" width="35" height="35" />
-<img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/dart.svg" alt="dart" width="35" height="35" /> 
-<img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/flutter.svg" alt="flutter" width="35" height="35" />
+<!-- <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/dart.svg" alt="dart" width="35" height="35" />  -->
+<!-- <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/flutter.svg" alt="flutter" width="35" height="35" /> -->
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/jest.svg" alt="jest" width="35" height="35" />
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png?20140904162625" alt="npm" width="35" height="35" />
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="35" height="35" />

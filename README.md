@@ -28,14 +28,15 @@
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/node-js.svg" alt="nodejs" width="35" height="35" />
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/express2.svg" alt="express" width="35" height="35" />
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/mongodb.svg" alt="mongodb" width="35" height="35" />
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" alt="heroku" width="35" height="35" />
-<img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/firebase.svg" alt="firebase" width="35" height="35" />
-<img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/netlify.svg" alt="netlify" width="35" height="35" />
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/graphql.svg" alt="graphql" width="35" height="35" />
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg" alt="apollo" width="35" height="35" />
 <!-- <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/dart.svg" alt="dart" width="35" height="35" />  -->
 <!-- <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/flutter.svg" alt="flutter" width="35" height="35" /> -->
 <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/jest.svg" alt="jest" width="35" height="35" />
+<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" alt="heroku" width="35" height="35" />
+<img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/firebase.svg" alt="firebase" width="35" height="35" />
+<img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/netlify.svg" alt="netlify" width="35" height="35" />
+<!-- <img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/vercel.svg" alt="vercel" width="35" height="35" /> -->
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png?20140904162625" alt="npm" width="35" height="35" />
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="35" height="35" />
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/postcss.svg" alt="postCSS" width="35" height="35" />

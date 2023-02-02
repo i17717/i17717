@@ -1,8 +1,18 @@
 <h1>Hi, I'm Lilli <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt=""> </h1>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=lillime0&label=Profile%20views&color=ff1493&style=flat" alt="prfile views" /></p>
-
 <br/>
+
+<p align="center">
+<a href="https://facebook.com/lillime0"><img width="22" height="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" /></a>  .
+<a href="https://twitter.com/lillime0"><img width="22" height="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" /></a>  .
+<a href="https://linkedin.com/in/lillime0"><img alt="linkedin" width="22" height="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" /></a>  .
+<a href="https://behance.net/lillime0"><img alt="behance" width="22" height="22" src="https://symbols.getvecta.com/stencil_65/0_behance.5770f79b60.svg" /></a>  .
+<a href="https://lillime0.github.io"><img alt="center" width="22" height="22" src="https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Website-Outline-512.png" /></a>
+</p>
+
+<p align="center">@lillime0</p>
+
+<br />
 
 `INTP` | 🇸🇩
 
@@ -42,27 +52,9 @@
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/postcss.svg" alt="postCSS" width="35" height="35" />
 <img align="left" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="vite" width="35" height="35" />
 
-
-<img align="left" src="https://cdn.worldvectorlogo.com/logos/vim.svg" alt="vim" width="35" height="35" />
+<!--<img align="left" src="https://cdn.worldvectorlogo.com/logos/vim.svg" alt="vim" width="35" height="35" />-->
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/512px-Babel_Logo.svg.png?20180608034227" alt="babel" width="35" height="35" />
 <img align="left" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vsc" width="35" height="35" />
-
-  
-<br clear="left" />
-
-<br />
-
-## ❤️ Connect With Me
-
-[<img align="left" alt="facebook" width="22" height="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png"  />](https://facebook.com/lillime0)
-
-[<img align="left" alt="twitter" width="22" height="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />](https://twitter.com/lillime0)
-
-[<img align="left" alt="linkedin" width="22" height="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"  />](https://linkedin.com/in/lillime0)
-
-[<img align="left" alt="behance" width="22" height="22" src="https://symbols.getvecta.com/stencil_65/0_behance.5770f79b60.svg" />](https://behance.net/lillime0)
-
-[<img alt="website" width="22" height="22" src="https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Website-Outline-512.png" />](https://lillime0.github.io)
 
 <br clear="left" />
 

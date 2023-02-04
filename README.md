@@ -11,8 +11,6 @@
 <a href="https://lillime0.github.io"><img alt="center" width="22" height="22" src="https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Website-Outline-512.png" /></a>
 </p>
 
-<p align="center">@lillime0</p>
-
 <br />
 
 `INTP` | 🇸🇩

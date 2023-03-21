@@ -3,12 +3,11 @@
 <br/>
 
 <p align="center">
-<a href="https://facebook.com/lillime0"><img width="22" height="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" /></a>  .
-<a href="https://twitter.com/lillime0"><img width="22" height="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" /></a>  .
-<a href="https://www.instagram.com/lillime0"><img width="22" height="22" src="https://cdn.iconscout.com/icon/free/png-512/instagram-1868978-1583142.png?f=avif&w=256" /></a>  .
-<a href="https://linkedin.com/in/lillime0"><img alt="linkedin" width="22" height="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" /></a>  .
-<a href="https://behance.net/lillime0"><img alt="behance" width="22" height="22" src="https://symbols.getvecta.com/stencil_65/0_behance.5770f79b60.svg" /></a>  .
-<a href="https://lillime0.github.io"><img alt="center" width="22" height="22" src="https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Website-Outline-512.png" /></a>
+<a href="https://facebook.com/lillime0" target="_blank"><img width="22" height="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" /></a>  .
+<a href="https://twitter.com/lillime0" target="_blank"><img width="22" height="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" /></a>  .
+<a href="https://linkedin.com/in/lillime0" target="_blank"><img alt="linkedin" width="22" height="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" /></a>  .
+<a href="https://behance.net/lillime0" target="_blank"><img alt="behance" width="22" height="22" src="https://symbols.getvecta.com/stencil_65/0_behance.5770f79b60.svg" /></a>  .
+<a href="https://lillime0.github.io" target="_blank"><img alt="center" width="22" height="22" src="https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Website-Outline-512.png" /></a>
 </p>
 
 <br />

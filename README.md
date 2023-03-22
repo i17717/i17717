@@ -53,6 +53,7 @@
 <!--<img align="left" src="https://cdn.worldvectorlogo.com/logos/vim.svg" alt="vim" width="35" height="35" />-->
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/512px-Babel_Logo.svg.png?20180608034227" alt="babel" width="35" height="35" />
 <img align="left" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vsc" width="35" height="35" />
+<img align="left" src="https://github.com/lillime0/my-portfolio/blob/main/src/assets/skills/docker.svg" alt="docker" width="35" height="35" />
 
 <br clear="left" />
 

@@ -13,9 +13,9 @@
 
 <br />
 
-`INTP` | 🇸🇩
+`INTP` | 🇫🇷🇸🇩
 
-📖 📝 👩‍💻 ☕
+👩🏽‍💻🧘🏽‍♀️📚🎹☕
 
 <br/>
 
@@ -49,7 +49,7 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png?20140904162625" alt="npm" width="35" height="35" />
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="35" height="35" />
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/postcss.svg" alt="postCSS" width="35" height="35" />
-<img align="left" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="vite" width="35" height="35" />
+<img align="left" src="https://vite.dev/logo.svg" alt="vite" width="35" height="35" />
 
 <!--<img align="left" src="https://cdn.worldvectorlogo.com/logos/vim.svg" alt="vim" width="35" height="35" />-->
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/512px-Babel_Logo.svg.png?20180608034227" alt="babel" width="35" height="35" />

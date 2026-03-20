@@ -37,6 +37,7 @@
 <!-- <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/nextjs.svg" alt="nextjs" width="35" height="35" /> -->
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/node-js.svg" alt="nodejs" width="35" height="35" />
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/express2.svg" alt="express" width="35" height="35" />
+<img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/npm.png" alt="npm" width="35" height="35" />
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/mongodb.svg" alt="mongodb" width="35" height="35" />
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/graphql.svg" alt="graphql" width="35" height="35" />
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg" alt="apollo" width="35" height="35" />
@@ -48,7 +49,6 @@
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/firebase.svg" alt="firebase" width="35" height="35" />
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/netlify.svg" alt="netlify" width="35" height="35" />
 <!-- <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/vercel.svg" alt="vercel" width="35" height="35" /> -->
-<img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/npm.png" alt="npm" width="35" height="35" />
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="35" height="35" />
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/postcss.svg" alt="postCSS" width="35" height="35" />
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/vite.png" alt="vite" width="35" height="35" />

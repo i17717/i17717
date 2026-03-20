@@ -30,6 +30,7 @@
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/html.svg" alt="html" width="35" height="35" />
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/css.svg" alt="css" width="35" height="35" />
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/sass.svg" alt="sass" width="35" height="35" />
+<!-- <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/python.svg" alt="python" width="35" height="35" /> -->
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/javascript.svg" alt="javascript" width="35" height="35" />
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/typescript.svg" alt="typescript" width="35" height="35" />
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/react.svg" alt="react" width="35" height="35" />
@@ -41,19 +42,21 @@
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg" alt="apollo" width="35" height="35" />
 <!-- <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/dart.svg" alt="dart" width="35" height="35" />  -->
 <!-- <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/flutter.svg" alt="flutter" width="35" height="35" /> -->
+<img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/linux.png" alt="linux" width="35" height="35" />
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/jest.svg" alt="jest" width="35" height="35" />
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" alt="heroku" width="35" height="35" />
+<img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/heroku.png" alt="heroku" width="35" height="35" />
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/firebase.svg" alt="firebase" width="35" height="35" />
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/netlify.svg" alt="netlify" width="35" height="35" />
 <!-- <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/vercel.svg" alt="vercel" width="35" height="35" /> -->
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png?20140904162625" alt="npm" width="35" height="35" />
+<img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/npm.png" alt="npm" width="35" height="35" />
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="35" height="35" />
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/postcss.svg" alt="postCSS" width="35" height="35" />
-<img align="left" src="https://vite.dev/logo.svg" alt="vite" width="35" height="35" />
+<img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/vite.png" alt="vite" width="35" height="35" />
 
-<!--<img align="left" src="https://cdn.worldvectorlogo.com/logos/vim.svg" alt="vim" width="35" height="35" />-->
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/512px-Babel_Logo.svg.png?20180608034227" alt="babel" width="35" height="35" />
-<img align="left" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vsc" width="35" height="35" />
+<img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/vsc.png" alt="vsc" width="35" height="35" />
+<!--<img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/vim.png" alt="vim" width="35" height="35" />-->
+<!--<img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/neovim.svg" alt="vim" width="35" height="35" />-->
+<!-- <img align="left" src="" alt="babel" width="35" height="35" /> -->
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/docker.svg" alt="docker" width="35" height="35" />
 
 <br clear="left" />

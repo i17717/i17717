@@ -2,15 +2,49 @@
 
 <br/>
 
-<p align="center">
-<a href="https://facebook.com/i17717"><img width="22" height="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" /></a>  .
-<a href="https://twitter.com/lillime0"><img width="22" height="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" /></a>  .
-<a href="https://www.instagram.com/lillime0"><img width="22" height="22" src="https://cdn.iconscout.com/icon/free/png-512/instagram-1868978-1583142.png?f=avif&w=256" /></a>  .
-<a href="https://linkedin.com/in/i17717"><img alt="linkedin" width="22" height="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" /></a>  .
-<a href="https://behance.net/i17717"><img alt="behance" width="22" height="22" src="https://symbols.getvecta.com/stencil_65/0_behance.5770f79b60.svg" /></a>  .
-<a href="https://i17717.github.io"><img alt="center" width="22" height="22" src="https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Website-Outline-512.png" /></a>
-</p>
+<!-- <p align="center">
+<a href="https://facebook.com/i17717"><img width="22" height="22" margin="5px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" /></a>
+<a href="https://twitter.com/lillime0"><img width="22" height="22" margin="5px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" /></a>
+<a href="https://www.instagram.com/lillime0"><img width="22" height="22" margin="5px" src="https://cdn.iconscout.com/icon/free/png-512/instagram-1868978-1583142.png?f=avif&w=256" /></a>
+<a href="https://linkedin.com/in/i17717"><img alt="linkedin" width="22" height="22" margin="5px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" /></a>
+<a href="https://behance.net/i17717"><img alt="behance" width="22" height="22" margin="5px" src="https://symbols.getvecta.com/stencil_65/0_behance.5770f79b60.svg" /></a>
+<a href="https://i17717.github.io"><img alt="center" width="22" height="22" margin="5px" src="https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Website-Outline-512.png" /></a>
+</p> -->
 
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td border="0">
+      <a href="https://facebook.com/i17717">
+        <img width="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png">
+      </a>
+    </td>
+    <td border="0">
+      <a href="https://twitter.com/lillime0">
+        <img width="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png">
+      </a>
+    </td>
+    <td border="0">
+      <a href="https://www.instagram.com/lillime0">
+        <img width="22" src="https://cdn.iconscout.com/icon/free/png-512/instagram-1868978-1583142.png">
+      </a>
+    </td>
+    <td border="0">
+      <a href="https://linkedin.com/in/i17717">
+        <img width="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png">
+      </a>
+    </td>
+    <td border="0">
+      <a href="https://behance.net/i17717">
+        <img width="22" src="https://symbols.getvecta.com/stencil_65/0_behance.5770f79b60.svg">
+      </a>
+    </td>
+    <td border="0">
+      <a href="https://i17717.github.io">
+        <img width="22" src="https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Website-Outline-512.png">
+      </a>
+    </td>
+  </tr>
+</table>
 <br />
 
 `INTP` | 🇫🇷🇸🇩

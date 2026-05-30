@@ -6,6 +6,7 @@
 <a href="https://twitter.com/lillime0"><img align="center" width="22" height="22" margin="5px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" /></a> .
 <a href="https://www.instagram.com/lillime0"><img align="center" width="22" height="22" margin="5px" src="https://cdn.iconscout.com/icon/free/png-512/instagram-1868978-1583142.png?f=avif&w=256" /></a> .
 <a href="https://linkedin.com/in/i17717"><img align="center" alt="linkedin" width="22" height="22" margin="5px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" /></a> .
+  <a href="https://dev.to/i17717" target="_blank"><img align="center" alt="dev community" width="22" height="22" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dev-community-icon.svg" /></a> .
 <a href="https://behance.net/i17717"><img align="center" alt="behance" width="22" height="22" margin="5px" src="https://symbols.getvecta.com/stencil_65/0_behance.5770f79b60.svg" /></a> .
 <a href="https://i17717.github.io"><img alt="my site" align="center" width="22" height="22" margin="5px" src="https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Website-Outline-512.png" /></a>
 </p>

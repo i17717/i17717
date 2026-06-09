@@ -42,7 +42,7 @@
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg" alt="apollo" width="35" height="35" />
 <!-- <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/dart.svg" alt="dart" width="35" height="35" />  -->
 <!-- <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/flutter.svg" alt="flutter" width="35" height="35" /> -->
-<img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/linux.png" alt="linux" width="35" height="35" />
+<img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/linux.svg" alt="linux" width="35" height="35" />
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/bash-2.svg" alt="bash-scripting" width="35" height="35" /> 
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/jest.svg" alt="jest" width="35" height="35" />
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/heroku.png" alt="heroku" width="35" height="35" />

@@ -29,7 +29,7 @@
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/html.svg" alt="html" width="35" height="35" />
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/css.svg" alt="css" width="35" height="35" />
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/sass.svg" alt="sass" width="35" height="35" />
-<!-- <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/python.svg" alt="python" width="35" height="35" /> -->
+<img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/python.svg" alt="python" width="35" height="35" /> 
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/javascript.svg" alt="javascript" width="35" height="35" />
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/typescript.svg" alt="typescript" width="35" height="35" />
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/react.svg" alt="react" width="35" height="35" />
@@ -43,6 +43,7 @@
 <!-- <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/dart.svg" alt="dart" width="35" height="35" />  -->
 <!-- <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/flutter.svg" alt="flutter" width="35" height="35" /> -->
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/linux.png" alt="linux" width="35" height="35" />
+<img align="left" src="https://cdn.worldvectorlogo.com/logos/bash-2.svg" alt="bash-scripting" width="35" height="35" /> 
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/jest.svg" alt="jest" width="35" height="35" />
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/heroku.png" alt="heroku" width="35" height="35" />
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/firebase.svg" alt="firebase" width="35" height="35" />
@@ -53,10 +54,9 @@
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/vite.png" alt="vite" width="35" height="35" />
 
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/vsc.png" alt="vsc" width="35" height="35" />
-<!--<img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/vim.png" alt="vim" width="35" height="35" />-->
-<!--<img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/neovim.svg" alt="vim" width="35" height="35" />-->
 <!-- <img align="left" src="" alt="babel" width="35" height="35" /> -->
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/docker.svg" alt="docker" width="35" height="35" />
+<img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/nginx (1).svg" alt="nginx" width="35" height="35" />
 
 <br clear="left" />
 

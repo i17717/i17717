@@ -56,7 +56,11 @@
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/vsc.png" alt="vsc" width="35" height="35" />
 <!-- <img align="left" src="" alt="babel" width="35" height="35" /> -->
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/docker.svg" alt="docker" width="35" height="35" />
+<!-- <img align="left" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="kubernetes" width="35" height="35" /> -->
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/nginx (1).svg" alt="nginx" width="35" height="35" />
+<!-- <img align="left" src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="ansible" width="35" height="35" /> -->
+<!-- <img align="left" src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" alt="terraform" width="35" height="35" /> -->
+
 
 <br clear="left" />
 

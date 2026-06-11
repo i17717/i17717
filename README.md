@@ -38,7 +38,7 @@
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/express2.svg" alt="express" width="35" height="35" />
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/npm.png" alt="npm" width="35" height="35" />
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/mongodb.svg" alt="mongodb" width="35" height="35" />
-<img align="left" src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=600/uploads/users/34/posts/29527/preview_image/mongoose.jpg" alt="mongoose" width="35" height="35" />
+<img align="left" src="https://img.icons8.com/?size=100&id=gKfcEStXI1Hm&format=png&color=000000" alt="mongoose" width="35" height="35" />
 <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/graphql.svg" alt="graphql" width="35" height="35" />
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg" alt="apollo" width="35" height="35" />
 <!-- <img align="left" src="https://github.com/i17717/my-portfolio/blob/main/src/assets/skills/dart.svg" alt="dart" width="35" height="35" />  -->
